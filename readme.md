@@ -95,9 +95,9 @@ monet2photo. Было интересно, насколько хорошо вос
 на случайных картинках из интернета.
 
 ## Генерация картинок
-Скрипт **neg2pos_generator.py**. Пример строки запуска:
+Скрипт **neg2pos_vangogh_generator.py**. Пример строки запуска:
 ```bash
-python neg2pos_generator.py --image_path path_to_image
+python neg2pos_vangogh_generator.py --image_path path_to_image
 ```
 
 Загружается **state_dict** модели neg2pos-vangogh (в случае отсутвия модели в
